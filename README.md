@@ -3,5 +3,8 @@ This a social distance analyzer where it detects whether people from a given inp
 To fully run it, download yolov4.weights file and paste it in the utils/model/  folder.
 
 
-https://user-images.githubusercontent.com/77276966/199168190-6a300a4e-3e6c-46ae-a04d-7f177930befd.mp4
+
+https://user-images.githubusercontent.com/77276966/199172219-abbc94f3-76dd-4139-abb0-45be4b9d0ba4.mp4
+
+
 
